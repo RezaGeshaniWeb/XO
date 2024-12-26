@@ -1,9 +1,9 @@
 # XO
 
-![Alt text]![1](https://github.com/user-attachments/assets/aa811edc-a032-45ac-bc3d-0cc2623599dd)
+![Alt text](https://github.com/user-attachments/assets/aa811edc-a032-45ac-bc3d-0cc2623599dd)
 
 
-![Alt text]![2](https://github.com/user-attachments/assets/f894b1ea-37f0-4bc9-80e8-63b4e0e34914)
+![Alt text](https://github.com/user-attachments/assets/f894b1ea-37f0-4bc9-80e8-63b4e0e34914)
 
 
 - [Online Demo](https://rezageshaniweb.github.io/XO/)
